@@ -1,17 +1,17 @@
 ---
-title: Marketplace
-subtitle: No definido
+title: Turismo y Viajes
+subtitle: subtítulo por definir
 layout: default
-modal-id: 4
-date: 2021-03-12
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: Marketplace
+modal-id: 6
+date: 14/4/21
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: Turismo y viajes
 project-date: April 2021
-client: No definido
+client: no definido
 clientlink: https://test.com
 
-category: No definido
+category: Servicios del portafolios
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

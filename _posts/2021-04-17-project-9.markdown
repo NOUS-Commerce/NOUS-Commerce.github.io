@@ -1,17 +1,16 @@
 ---
-title: Marketplace
+title: Salud y Farmacia
 subtitle: No definido
 layout: default
-modal-id: 4
-date: 2021-03-12
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: Marketplace
+modal-id: 9
+date: 2021-4-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: Salud y farmacia
 project-date: April 2021
-client: No definido
+client: No Definido
 clientlink: https://test.com
-
-category: No definido
+category: No Definido
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
